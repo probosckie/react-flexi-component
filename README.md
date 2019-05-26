@@ -5,4 +5,5 @@ I used Create React App boilerplate to scaffold this application. The only files
 
 
 App.js - this imports Flexi.js
+
 Flexi.js
